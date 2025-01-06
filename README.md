@@ -1,10 +1,6 @@
 # Test Docker avec Express
 
-Un projet simple pour tester Docker avec une application Express.js.
-
-## Description
-
-Application Express minimaliste qui expose une route GET `/` renvoyant un message "hello".
+Un projet simple pour tester Docker avec une application Express.js qui ouvre une route GET `/` renvoyant un message "hello".
 
 ## Prérequis
 
